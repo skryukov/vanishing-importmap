@@ -1,0 +1,12 @@
+<div class="monte" data-controller="monte">
+  <h1>Three Card Monte</h1>
+  <p data-monte-target="message">Watch the queen&hellip;</p>
+  <div class="cards">
+    <% 3.times do |i| %>
+      <div class="card" data-monte-target="card" data-action="click->monte#pick">
+        <div class="card-back">&#x1F0A0;</div>
+        <div class="card-front"></div>
+      </div>
+    <% end %>
+  </div>
+</div>
