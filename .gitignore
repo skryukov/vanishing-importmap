@@ -2,3 +2,5 @@ log/
 tmp/
 storage/
 .kamal/
+node_modules/
+app/assets/builds/

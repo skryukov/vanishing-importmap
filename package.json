@@ -1,0 +1,14 @@
+{
+  "name": "vanishing-importmap",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@hotwired/stimulus": "^3.2.2",
+    "@hotwired/turbo-rails": "^8.0.23",
+    "rails-vite-plugin": "^0.2.2",
+    "vite": "^8.0.1"
+  }
+}
