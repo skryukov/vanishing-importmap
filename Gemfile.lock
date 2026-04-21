@@ -87,10 +87,10 @@ GEM
     brakeman (8.0.4)
       racc
     builder (3.3.0)
-    bundlebun (0.4.2.1.3.12-arm64-darwin)
+    bundlebun (0.4.2.1.3.13-arm64-darwin)
       json (~> 2.0)
       zeitwerk (~> 2.5)
-    bundlebun (0.4.2.1.3.12-x86_64-linux)
+    bundlebun (0.4.2.1.3.13-x86_64-linux)
       json (~> 2.0)
       zeitwerk (~> 2.5)
     bundler-audit (0.9.3)
@@ -142,7 +142,7 @@ GEM
       activesupport (>= 7.0.0)
     jsbundling-rails (1.3.1)
       railties (>= 6.0.0)
-    json (2.19.3)
+    json (2.19.4)
     kamal (2.11.0)
       activesupport (>= 7.0)
       base64 (~> 0.2)
@@ -411,8 +411,8 @@ CHECKSUMS
   bootsnap (1.23.0) sha256=c1254f458d58558b58be0f8eb8f6eec2821456785b7cdd1e16248e2020d3f214
   brakeman (8.0.4) sha256=7bf921fa9638544835df9aa7b3e720a9a72c0267f34f92135955edd80d4dcf6f
   builder (3.3.0) sha256=497918d2f9dca528fdca4b88d84e4ef4387256d984b8154e9d5d3fe5a9c8835f
-  bundlebun (0.4.2.1.3.12-arm64-darwin) sha256=0532873828df3239b0a5267f6217f08a970de40916d19ed96640313c94a3becf
-  bundlebun (0.4.2.1.3.12-x86_64-linux) sha256=76b20da383e4f0935cefb2909b296df831823938a521bfd64840e4bbca8bb543
+  bundlebun (0.4.2.1.3.13-arm64-darwin) sha256=2e3e94cf5e0ecd5f14c02bac0eaa06f41f14358eacd6cb411ae03818899df36f
+  bundlebun (0.4.2.1.3.13-x86_64-linux) sha256=3971d381ecf0a24cc7d21d3e221e1c8713a707d9dd45f932d7f4ba4243778a33
   bundler-audit (0.9.3) sha256=81c8766c71e47d0d28a0f98c7eed028539f21a6ea3cd8f685eb6f42333c9b4e9
   capybara (3.40.0) sha256=42dba720578ea1ca65fd7a41d163dd368502c191804558f6e0f71b391054aeef
   concurrent-ruby (1.3.6) sha256=6b56837e1e7e5292f9864f34b69c5a2cbc75c0cf5338f1ce9903d10fa762d5ab
@@ -436,7 +436,7 @@ CHECKSUMS
   irb (1.17.0) sha256=168c4ddb93d8a361a045c41d92b2952c7a118fa73f23fe14e55609eb7a863aae
   jbuilder (2.14.1) sha256=4eb26376ff60ef100cb4fd6fd7533cd271f9998327e86adf20fd8c0e69fabb42
   jsbundling-rails (1.3.1) sha256=0fa03f6d051c694cbf55a022d8be53399879f2c4cf38b2968f86379c62b1c2ca
-  json (2.19.3) sha256=289b0bb53052a1fa8c34ab33cc750b659ba14a5c45f3fcf4b18762dc67c78646
+  json (2.19.4) sha256=670a7d333fb3b18ca5b29cb255eb7bef099e40d88c02c80bd42a3f30fe5239ac
   kamal (2.11.0) sha256=1408864425e0dec7e0a14d712a3b13f614e9f3a425b7661d3f9d287a51d7dd75
   language_server-protocol (3.17.0.5) sha256=fd1e39a51a28bf3eec959379985a72e296e9f9acfce46f6a79d31ca8760803cc
   lint_roller (1.1.0) sha256=2c0c845b632a7d172cb849cc90c1bce937a28c5c8ccccb50dfd46a485003cc87
